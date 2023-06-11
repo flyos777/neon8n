@@ -11,7 +11,7 @@ on:
       version:
         description: 'version'
         required: true
-        default: '0.228.1'
+        default: '0.230.3'
         type: string
 
 jobs:
